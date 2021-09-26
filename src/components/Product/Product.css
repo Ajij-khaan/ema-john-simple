@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-right: 5px;
+}
+
+.product-name{
+    color: blue;
+}
+
+.addCart{
+    background-color: goldenrod;
+    padding: 5px 30px;
+    border: 0;
+    color: white;
+    border-radius: 10px;
+}
